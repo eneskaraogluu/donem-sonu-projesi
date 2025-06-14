@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode ayar dosyaları
+.vscode/
+
+# Ortam değişkenleri
+.env
+
+# Log dosyaları
+*.log
