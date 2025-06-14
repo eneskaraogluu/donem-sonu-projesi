@@ -22,5 +22,5 @@ Kurmak için:
 
 ```bash
 pip install matplotlib
-Eğer kod çalışmazsa neighborhoods.txt 'yi silip yeniden yükleyiniz.
+
 
